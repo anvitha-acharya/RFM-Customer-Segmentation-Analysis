@@ -3,6 +3,8 @@
 
 This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment customers of a cosmetics e-commerce platform based on their purchasing behavior. Using **Power BI**, we analyze transactional data to identify key customer segments such as loyal buyers, potential churners, and high-value customers. The final output includes interactive visualizations that aid in strategic business decisions, personalized marketing, and customer retention.
 
+
+##Dashboard Screenshot:
 ![Dashboard Screenshot](Dashboard.png "This shows the main dashboard")
 ---
 
@@ -176,19 +178,32 @@ SWITCH(
 ## Visualizations
 
 ### 1. Bar Chart: Count of Users by RFM Segment
-Purpose: Show how many customers fall into each RFM-based group.
+Purpose: Shows how many customers fall into each RFM-based group.
+##Screenshot:
+![Screenshot](BarChart.png "This shows the barchart")
 
 ### 2. Donut Chart: Share of Each Segment
-Purpose: Visualize the proportion of customer types.
+Purpose: Visualizes the proportion of customer types.
+##Screenshot:
+![Screenshot](DonutChart.png "This shows the donut chart")
 
 ### 3. Heatmap: RecencyScore vs FrequencyScore
-Purpose: Spot patterns in user engagement (e.g., frequent + recent users).
+Purpose: Spots patterns in user engagement (e.g., frequent + recent users).
+##Screenshot:
+![Screenshot](HeatMap.png "This shows the heatmap")
 
 ### 4.  Line Chart: Purchases Over Time
-Purpose: Show purchasing trends.
+Purpose: Shows purchasing trends.
+##Screenshot:
+![Screenshot](LineChart.png "This shows the linechart")
 
 ### 5.  Matrix Table: Detailed RFM Scores per Segment
-Purpose: Show a data-rich view of RFM scores.
+Purpose: Shows a data-rich view of RFM scores.
+##Screenshot:
+![Screenshot](MatrixTable.png "This shows the matrix table")
 
 ### 6. Scatter Plot: Frequency vs Recency 
+Purpose: Shows clusters of customers
+##Screenshot:
+![Screenshot](ScatterPlot.png "This shows the scatter plot")
 
