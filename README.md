@@ -3,6 +3,7 @@
 
 This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment customers of a cosmetics e-commerce platform based on their purchasing behavior. Using **Power BI**, we analyze transactional data to identify key customer segments such as loyal buyers, potential churners, and high-value customers. The final output includes interactive visualizations that aid in strategic business decisions, personalized marketing, and customer retention.
 
+![Dashboard Screenshot](Dashboard.png "This shows the main dashboard")
 ---
 
 **RFM** is a well-established marketing technique that evaluates customer value based on three key metrics:
